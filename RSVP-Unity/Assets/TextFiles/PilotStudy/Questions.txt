@@ -1,0 +1,12 @@
+a	Vögel können Farben nicht gut sehen.						FALSCH
+b	Die Mäuse verließen um Mitternacht den Keller.					RICHTIG
+c	Bieber können 30 Minuten unter Wasser bleiben.					FALSCH
+d	Bäume können überall wachsen.							FALSCH
+e	Spinnen verzerren ihre Beute immer sofort.					FALSCH
+f	Frösche nutzen die Regenzeit zum schlafen.					FALSCH
+g	Das Gift von Tieren ist nicht immer tödlich.					RICHTIG
+h	Insel können entstehen, wenn der Wasserspiegel sinkt.				RICHTIG
+i	Spinnen können 2 Arten von Fäden spinnen.					RICHTIG
+j	Alle Tiere müssen ihre Lebensweise über den Winter ändern.			FALSCH
+k	Die Sonnenscheindauer hat in diesem Jahr einen neuen Rekord aufgestellt.	RICHTIG
+l	Eine Person wurde festgenommen.							RICHTIG

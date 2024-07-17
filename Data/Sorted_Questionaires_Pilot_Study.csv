@@ -1,0 +1,119 @@
+﻿Participant ID;1;2;3;4;5;6;7
+Alter;24;59;25;25;41;57;25
+Geschlecht;Männlich;Weiblich;Weiblich;Weiblich;Weiblich;Männlich;Männlich
+Beruf/Ausbildung/Studium;Ausbildung;Ux-Designerin;Studentin;Studentin;Wissenschaftliche Mitarbeiterin;Industrie Designer;Student
+Haben Sie irgendwelche Seh-Beeinträchtigungen?;Kurzsichtig;Weitsichtig;Kurzsichtig;Keine;Kurzsichtig;Weitsichtig;Kurzsichtig
+Verwenden Sie visuelle Hilfsmittel?;Keine;Brille;Brille;Keine;Brille;Lese-Brille;Brille
+Haben Sie Erfahrung mit RSVP, wenn ja wie häufig pro Woche benutzen Sie RSVP?;Nein;Nein;Nein;Nein;Nein;Nein;Nein
+Als wie erfahren würden Sie sich im Bezug auf VR bezeichnen?;5;2;2;2;1;2;4
+Baseline_W_BackgroundColor;W;W;W;W;W;W;W
+Baseline_W_Verwendetes Text-File;j;a;c;h;h;h;a
+Baseline_W_ReadingSpeed;33,56;32,82;43,61;27,55;35,01;30,9;45,49
+Baseline_W_Question;Ja;Nein;Ja;Ja;Ja;Nein;Ja
+Baseline_W_MR;5;10;3;2;13;1;6
+Baseline_W_PR;6;1;4;4;1;1;3
+Baseline_W_TR;2;5;4;1;5;1;4
+Baseline_W_Performance;9;2;2;1;4;4;7
+Baseline_W_Effort;11;2;4;1;1;1;2
+Baseline_W_Frustration;10;3;2;2;1;1;1
+Baseline_G_BackgroundColor;G;G;G;G;G;G;G
+Baseline_G_Verwendetes Text-File;f;e;i;c;d;l;g
+Baseline_G_ReadingSpeed;37,52;41,7;38,92;27;35,73;1.02,74;43,97
+Baseline_G_Question;Ja;Ja;Ja;Nein;Ja;Nein;Ja
+Baseline_G_MR;8;1;2;3;11;3;3
+Baseline_G_PR;5;1;5;2;1;1;6
+Baseline_G_TR;4;2;3;1;2;1;3
+Baseline_G_Performance;8;1;1;1;8;6;2
+Baseline_G_Effort;3;1;3;1;2;2;6
+Baseline_G_Frustration;4;1;1;1;1;2;2
+Baseline_B_BackgroundColor;B;B;B;B;B;B;B
+Baseline_B_Verwendetes Text-File;b;c;h;b;i;g;b
+Baseline_B_ReadingSpeed;38,08;57,7;54,94;29,11;34,9;37,9;49,33
+Baseline_B_Question;Ja;Nein;Ja;Ja;Ja;Ja;Ja
+Baseline_B_MR;5;1;5;3;8;1;3
+Baseline_B_PR;3;1;5;3;1;1;8
+Baseline_B_TR;3;1;4;1;2;1;3
+Baseline_B_Performance;7;2;2;1;10;4;3
+Baseline_B_Effort;8;2;4;1;5;1;7
+Baseline_B_Frustration;3;2;3;1;1;1;3
+200_W_BackgroundColor;W;W;W;W;W;W;W
+200_W_Verwendetes Text-File;i;g;g;g;g;a;k
+200_W_Question;Ja;Ja;Ja;Ja;Ja;Ja;Ja
+200_W_MR;6;1;7;2;3;4;10
+200_W_PR;2;1;6;3;1;4;8
+200_W_TR;10;1;6;1;3;4;13
+200_W_Performance;5;1;5;2;2;3;14
+200_W_Effort;7;1;8;1;2;5;12
+200_W_Frustration;4;1;6;1;1;2;18
+350_W_BackgroundColor;W;W;W;W;W;W;W
+350_W_Verwendetes Text-File;e;l;f;a;l;d;e
+350_W_Question;Ja;Ja;Ja;Ja;Nein;Ja;Ja
+350_W_MR;13;10;9;2;10;10;3
+350_W_PR;12;8;9;1;2;10;3
+350_W_TR;15;12;11;3;11;14;5
+350_W_Performance;9;11;8;1;10;12;4
+350_W_Effort;13;8;9;2;4;14;5
+350_W_Frustration;8;5;11;1;5;10;5
+500_W_BackgroundColor;W;W;W;W;W;W;W
+500_W_Verwendetes Text-File;l;k;b;e;f;f;f
+500_W_Question;Ja;Ja;Ja;Ja;Ja;Ja;Ja
+500_W_MR;19;10;9;13;9;12;2
+500_W_PR;16;2;13;14;5;5;12
+500_W_TR;19;10;11;15;12;15;18
+500_W_Performance;14;8;9;10;10;12;19
+500_W_Effort;17;12;11;9;9;14;14
+500_W_Frustration;14;5;11;5;8;8;15
+200_B_BackgroundColor;B;B;B;B;B;B;B
+200_B_Verwendetes Text-File;c;f;e;f;a;j;i
+200_B_Question;Ja;Ja;Ja;Nein;Ja;Nein;Ja
+200_B_MR;5;1;6;2;4;14;2
+200_B_PR;4;2;7;2;1;15;3
+200_B_TR;2;1;6;3;2;10;3
+200_B_Performance;2;1;5;2;2;15;4
+200_B_Effort;4;1;9;1;1;14;2
+200_B_Frustration;1;1;4;1;1;12;4
+350_B_BackgroundColor;B;B;B;B;B;B;B
+350_B_Verwendetes Text-File;d;i;a;l;b;b;l
+350_B_Question;Ja;Ja;Ja;Ja;Ja;Nein;Nein
+350_B_MR;11;2;9;14;14;8;16
+350_B_PR;8;3;8;12;2;8;12
+350_B_TR;15;3;10;14;10;12;12
+350_B_Performance;10;1;8;12;10;10;18
+350_B_Effort;12;2;9;13;6;8;13
+350_B_Frustration;11;1;8;9;6;12;20
+500_B_BackgroundColor;B;B;B;B;B;B;B
+500_B_Verwendetes Text-File;h;b;j;i;c;k;d
+500_B_Question;Ja;Ja;Ja;Ja;Ja;Nein;Nein
+500_B_MR;19;8;15;8;16;18;1
+500_B_PR;15;5;12;6;3;16;10
+500_B_TR;20;10;15;9;18;20;17
+500_B_Performance;16;10;12;4;12;18;14
+500_B_Effort;18;10;14;4;12;18;8
+500_B_Frustration;20;5;12;3;14;18;12
+200_G_BackgroundColor;G;G;G;G;G;G;G
+200_G_Verwendetes Text-File;g;j;k;k;k;e;j
+200_G_Question;Ja;Nein;Ja;Ja;Ja;Ja;Ja
+200_G_MR;4;1;9;4;10;2;3
+200_G_PR;3;1;8;5;2;4;1
+200_G_TR;2;1;8;2;4;7;3
+200_G_Performance;2;2;11;4;8;2;12
+200_G_Effort;2;2;10;4;5;5;5
+200_G_Frustration;2;2;9;3;4;6;10
+350_G_BackgroundColor;G;G;G;G;G;G;G
+350_G_Verwendetes Text-File;a;d;d;j;e;c;c
+350_G_Question;Ja;Nein;Ja;Ja;Ja;Nein;Ja
+350_G_MR;11;5;11;6;6;12;7
+350_G_PR;8;5;9;5;3;8;3
+350_G_TR;11;10;9;3;5;10;3
+350_G_Performance;8;8;10;3;8;12;8
+350_G_Effort;9;5;9;3;2;8;5
+350_G_Frustration;5;8;9;1;4;10;10
+500_G_BackgroundColor;G;G;G;G;G;G;G
+500_G_Text-File;k;h;l;d;j;i;h
+500_G_Question;Nein;Ja;Ja;Ja;Nein;Ja;Ja
+500_G_MR;18;10;15;12;15;5;9
+500_G_PR;15;5;11;9;4;5;7
+500_G_TR;19;15;14;18;18;7;13
+500_G_Performance;17;8;13;11;12;3;6
+500_G_Effort;16;12;14;15;6;7;5
+500_G_Frustration;19;5;14;5;12;4;8
